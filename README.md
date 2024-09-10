@@ -35,7 +35,7 @@ SIXPACK이라고 이름을 지었습니다.
 ![image](https://github.com/user-attachments/assets/43b2d3e9-c973-4a87-9d00-52052fd3017d)
 
 
-### 기능
+### 맡은 기능
 1. 회원가입/로그인
 2. 펀딩 게시물 등록 및 조회기능
 3. 마이페이지 기능
