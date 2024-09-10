@@ -34,9 +34,6 @@ SIXPACK이라고 이름을 지었습니다.
 
 ![image](https://github.com/user-attachments/assets/43b2d3e9-c973-4a87-9d00-52052fd3017d)
 
-### API 명세서
-![Uploading image.png…]()
-
 
 ### 기능
 1. 회원가입/로그인
